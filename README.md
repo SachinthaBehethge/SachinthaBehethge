@@ -6,9 +6,8 @@
 <!-- Introduction -->
 <h1 align="center"> I'm Imesh Sachintha Behethge 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/imeshsps/">LinkedIn</a> |
-  <a href="https://x.com/Imesh_Behethge">X (formerly Twitter)</a> |
-  <a href="https://imesh.dev">Portfolio</a>
+  <a href="www.linkedin.com/in/imesh-sachintha-behethge-7862a21a2">LinkedIn</a> |
+  <a href="https://sachinthabehethge.com">Portfolio</a>
 </p>
 
 <!-- About Me -->
