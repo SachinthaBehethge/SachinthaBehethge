@@ -1,10 +1,10 @@
 <!-- Header with animated text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20There!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi there, I'm Imesh Sachintha Behethge 👋</h1>
+<h1 align="center"> I'm Imesh Sachintha Behethge 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/imeshsps/">LinkedIn</a> |
   <a href="https://x.com/Imesh_Behethge">X (formerly Twitter)</a> |
@@ -15,7 +15,7 @@
 ### About Me
 
 - 🎓 I hold a BSc in Computer Science.
-- 💼 Currently working as a Full Stack Developer at Echelon.
+- 💼 Currently working as a Full Stack Developer at [Echelon](https://echelon.lk).
 - 🌱 Actively learning Node.js and C#.
 - 💬 Ask me about web development, mobile app development, and cloud services.
 - 📫 Reach me at: imeshbehethge@gmail.com
@@ -62,44 +62,30 @@
 
 Here are some of the projects I've been working on:
 
-1. **Indoor Mapping and Navigation Robot**  
-   [ros-navbot](https://github.com/imeshsps/ros-navbot)  
-   An indoor mapping and navigation robot built with ROS and NVIDIA Jetson Nano. This project involves SLAM (Simultaneous Localization and Mapping) and autonomous navigation capabilities.
+1. **Neon Media Website**  
+   [neonmedia.lk](https://neonmedia.lk)  
+   Developed the Neon Media website, an exclusive news provider in Sri Lanka, delivering timely and relevant news content to the public.
 
-2. **Differential Drive Robot Model**  
-   [Differential-Drive-Robot-Model](https://github.com/imeshsps/Differential-Drive-Robot-Model)  
-   A simulation model of a differential drive robot, useful for testing control algorithms and understanding robot kinematics.
+2. **Echelon Magazine Website**  
+   [echelon.lk](https://echelon.lk)  
+   Developed the Echelon Magazine website, providing intelligent storytelling and filling the void in Sri Lanka's business magazine market.
 
-3. **Temperature Monitoring System**  
-   [Temperature-monitoring-esp8266-arduino](https://github.com/imeshsps/Temperature-monitoring-esp8266-arduino)  
-   A temperature monitoring system using Arduino and ESP8266, capable of sending real-time data to a cloud server for remote monitoring.
+3. **EconomyNext Website Enhancements**  
+   [economynext.com](https://economynext.com)  
+   Improved the EconomyNext website, offering the latest news, reports, and analysis on Sri Lankan politics, finance, business, and economics.
 
-4. **Stressed Plant Detection**  
-   [Stressed-plant-detection](https://github.com/imeshsps/Stressed-plant-detection)  
-   A project aimed at detecting plant stress using image processing techniques, assisting in precision agriculture.
+4. **Election Center 2024**  
+   [election.economynext.com](https://election.economynext.com)  
+   Developed the Election Center 2024 platform to track Sri Lanka's General Election results live, providing real-time updates and insights.
 
-5. **SIM800L GPRS Connection Test**  
-   [sim800l-gprs](https://github.com/imeshsps/sim800l-gprs)  
-   An Arduino project to test GPRS connectivity using the SIM800L module, facilitating IoT applications.
+5. **Shine 50 Initiative**  
+   [shine50.echelon.lk](https://shine50.echelon.lk)  
+   Contributed to the Shine 50 project, spotlighting remarkable young women in Sri Lanka who are making significant contributions to social and cultural progress.
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+6. **Venpa.lk Website**  
+   [venpa.lk](https://venpa.lk)  
+   Developed the Venpa.lk website, a platform dedicated to Tamil literature and educational resources in Sri Lanka.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imeshsps&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<!-- Top Languages -->
-### 📚 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeshsps&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- GitHub Streak Stats -->
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeshsps&theme=
 ::contentReference[oaicite:0]{index=0}
  
