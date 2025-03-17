@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h1 align="center"> I'm Imesh Sachintha Behethge 👋</h1>
 <p align="center">
-  <a href="www.linkedin.com/in/imesh-sachintha-behethge-7862a21a2">LinkedIn</a> |
+  <a  href="https://www.linkedin.com/in/imesh-sachintha-behethge-7862a21a2">LinkedIn</a> |
   <a href="https://sachinthabehethge.com">Portfolio</a>
 </p>
 
